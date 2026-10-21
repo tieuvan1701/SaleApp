@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Iphone 16",
+    "price": 20000000,
+    "cate_id": 1,
+    "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:0/q:100/plain/https://cellphones.com.vn/media/wysiwyg/Phone/Apple/iPhone-16/iphone-16-2_2.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Iphone 17",
+    "price": 20000000,
+    "cate_id": 2,
+    "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:0/q:100/plain/https://cellphones.com.vn/media/wysiwyg/Phone/Apple/iPhone-16/iphone-16-2_2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Samsung Galaxy",
+    "price": 20000000,
+    "cate_id": 3,
+    "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:0/q:100/plain/https://cellphones.com.vn/media/wysiwyg/Phone/Apple/iPhone-16/iphone-16-2_2.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Redmi Note 14 Pro",
+    "price": 20000000,
+    "cate_id": 1,
+    "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:0/q:100/plain/https://cellphones.com.vn/media/wysiwyg/Phone/Apple/iPhone-16/iphone-16-2_2.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Samsung Note",
+    "price": 20000000,
+    "cate_id": 1,
+    "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:0/q:100/plain/https://cellphones.com.vn/media/wysiwyg/Phone/Apple/iPhone-16/iphone-16-2_2.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Iphone 18",
+    "price": 20000000,
+    "cate_id": 1,
+    "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:0/q:100/plain/https://cellphones.com.vn/media/wysiwyg/Phone/Apple/iPhone-16/iphone-16-2_2.jpg"
+  }
+]
