@@ -1,8 +1,17 @@
 {%extends 'layout/base.html'%}
 
+{%block title%}Trang chi tiết sản phẩm{%endblock%}
+
 {%block content%}
-CHI TIET SAN PHAM
 
-{{prod}}
+<div class="row mt-3">
+    <div class="col-md-7 col-12">
+        <img src="{{prod.image}}">
+    </div>
 
+    <div class="col-md-5 col-12">
+        <h3 class="text-info">{{prod.name}}</h3>
+        <h3 class="text-danger">{{prod.price}}</h3>
+    </div>
+</div>
 {%endblock%}
